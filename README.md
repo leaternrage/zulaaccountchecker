@@ -63,7 +63,7 @@ Build outputs like `bin/` and `obj/` are **not** included.
 
 1. Clone the repository:
   
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/leaternrage/zulaaccountchecker.git
    cd <your-repo-name>
    2. Open `CheckerGUI.sln` in **Visual Studio** (recommended) or another C# IDE.
 
