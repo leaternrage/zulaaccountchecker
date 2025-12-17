@@ -30,6 +30,10 @@ The app is designed to be **simple to use**, **proxy-friendly**, and show **clea
 
 ---
 
+🎥 Demo Video
+
+[![Demo Video](https://img.youtube.com/vi/S3IsUFGSw3E/0.jpg)](https://www.youtube.com/watch?v=S3IsUFGSw3E)
+
 ## Requirements
 
 - **OS**: Windows 10 / 11  
