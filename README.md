@@ -199,4 +199,4 @@ If you want a faster checker, keep this low (e.g. `1`) and adjust threads carefu
 Contributions, bug reports, and improvements are welcome via **Issues** or **Pull Requests**.
 
 
-![GitHub release (latest by date)](https://img.shields.io/github/downloads/leaternrage/zulaaccountchecker/latest/total?style=for-the-badge&label=Downloads)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/leaternrage/zulaaccountchecker/v1/total?style=for-the-badge&label=v1%20Downloads)
